@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 267c921e323e38d2ce46049d28d1c3e202d29eb1 Qasem <Qasem@kubernetes.docker.internal> 1781163149 +0300	commit (initial): Initial commit of mystring class
+267c921e323e38d2ce46049d28d1c3e202d29eb1 cbce1fe1be242418f2451eb30523b324e0c0c816 Qasem <Qasem@kubernetes.docker.internal> 1781163272 +0300	commit: fix invert method using else-if condition
